@@ -1,7 +1,7 @@
 # 👋 Piotr Banach — Web Developer
 
 > Junior Web Developer specjalizujący się w tworzeniu stron e-commerce i systemach CMS.  
-> Każdy projekt realizuję samodzielnie — od projektu UI po wdrożenie i integracje API.
+> Każdy projekt realizuję samodzielnie od projektu UI po wdrożenie i integracje API.
 
 ---
 
@@ -55,4 +55,4 @@ IT             →  Windows 10/11, Linux Server, sieci LAN
 
 ---
 
-*"Nie boję się wyzwań — każdy projekt to nowa rzecz do nauczenia się."*
+*"Nie boję się wyzwań każdy projekt to nowa rzecz do nauczenia się."*
