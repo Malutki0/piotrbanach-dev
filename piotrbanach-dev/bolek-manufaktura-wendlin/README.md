@@ -1,6 +1,6 @@
 # 🥩 Bolek Manufaktura Wędlin
 
-Strona e-commerce dla lokalnej manufaktury wędlin. Projekt zrealizowany w pełni samodzielnie — od projektu graficznego po wdrożenie produkcyjne.
+Strona e-commerce dla lokalnej manufaktury wędlin. Projekt zrealizowany w pełni samodzielnie od projektu graficznego po wdrożenie produkcyjne.
 
 🔗 **Live:** [bolekmanufakturawendlin.pl](https://bolekmanufakturawendlin.pl)
 
