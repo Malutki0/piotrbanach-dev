@@ -1,6 +1,6 @@
 # 🧴 Tonka Kraft
 
-Strona e-commerce dla marki Tonka Kraft. Projekt zrealizowany w pełni samodzielnie — od projektu graficznego po wdrożenie produkcyjne z integracjami płatności i wysyłki.
+Strona e-commerce dla marki Tonka Kraft. Projekt zrealizowany w pełni samodzielnie od projektu graficznego po wdrożenie produkcyjne z integracjami płatności i wysyłki.
 
 🔗 **Live:** [tonkakraft.pl](https://tonkakraft.pl)
 
