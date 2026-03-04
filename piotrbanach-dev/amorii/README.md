@@ -1,6 +1,6 @@
 # 💜 Amorii
 
-Strona e-commerce zrealizowana w pełni samodzielnie — od projektu graficznego po wdrożenie produkcyjne z integracjami płatności i wysyłki.
+Strona e-commerce zrealizowana w pełni samodzielnie od projektu graficznego po wdrożenie produkcyjne z integracjami płatności i wysyłki.
 
 🔗 **Live:** [amoriiofficially.com](https://amoriiofficially.com)
 
